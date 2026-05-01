@@ -38,7 +38,7 @@ We believe in the power of the community. Since most of our tools are work-in-pr
 - **Maintainer:** [siakinnik](https://github.com/siakinnik)
 
 ---
-*Disclaimer: CraftUtils is not affiliated with Mojang AB, Microsoft Corporation, or Telegram FZ-LLC. All Minecraft-related assets belong to their respective owners. Use responsibly and in accordance with the Telegram and Minecraft Terms of Service.*
+*Disclaimer: CraftUtils is not affiliated with Mojang AB, Microsoft Corporation. All Minecraft-related assets belong to their respective owners. Use responsibly and in accordance with the Telegram and Minecraft Terms of Service.*
 <!--
 
 **Here are some ideas to get you started:**
