@@ -4,7 +4,7 @@ We are an open-source community dedicated to building powerful tools and utiliti
 
 ## Current Projects
 
-### [LegacyCrossPlay](https://github.com/CraftUtlis/LegacyCrossPlay)
+### [LegacyCrossPlay](https://github.com/CraftUtils/LegacyCrossPlay)
 A specialized proxy translator that allows Minecraft Legacy Console Edition players to connect to 1.8 Java Edition servers. 
 
 - **Status:** Active / Public
